@@ -1,5 +1,5 @@
 # craigslist-search-alert
-Search [Craigslist](https://www.craigslist.org/about/sites) using saved search parameters. Any number of searches can be run at the same time. Results are stored to a database for later analysis. Search results that are 'new' are sent as an alert to a given email address.
+Search [Craigslist](https://www.craigslist.org/about/sites) using saved search parameters. Any number of searches can be run at the same time. Results are stored to a database for later analysis. New results are sent as an alert to a given email address.
 
 ## Disclaimer
 
